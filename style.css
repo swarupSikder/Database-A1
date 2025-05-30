@@ -18,7 +18,8 @@
 }
 
 .carousel-item img {
-    height: 300px;
+    width: fit-content;
+    height: 140px;
     object-fit: cover;
 }
 
@@ -30,5 +31,10 @@
 
     .portfolio-section {
         padding-top: 75px;
+    }
+
+    .carousel-item img {
+        height: 300px;
+        object-fit: cover;
     }
 }
