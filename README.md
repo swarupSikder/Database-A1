@@ -1,7 +1,7 @@
 My Portfolio
 --------------------------------
 
-https://swarupsikder.github.io/Database-A1/
+https://swarupsikder.github.io/SDT-A1/
 --------------------------------
 
 --------------
