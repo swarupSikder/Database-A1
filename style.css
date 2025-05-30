@@ -27,6 +27,11 @@
     width: 75%;
 }
 
+footer {
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+}
 
 @media (min-width: 768px) {
     .hero-section {
@@ -44,5 +49,9 @@
 
     .contact-box {
         width: 50%;
+    }
+
+    footer {
+        min-height: 400px;
     }
 }
