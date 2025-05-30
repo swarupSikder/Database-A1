@@ -23,6 +23,10 @@
     object-fit: cover;
 }
 
+.contact-box {
+    width: 75%;
+}
+
 
 @media (min-width: 768px) {
     .hero-section {
@@ -36,5 +40,9 @@
     .carousel-item img {
         height: 300px;
         object-fit: cover;
+    }
+
+    .contact-box {
+        width: 50%;
     }
 }
