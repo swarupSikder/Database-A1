@@ -8,8 +8,27 @@
     height: 300px;
 }
 
+.portfolio-section {
+    margin-top: 500px;
+}
+
+.section-title {
+    margin-bottom: 50px;
+    font-weight: 700;
+}
+
+.carousel-item img {
+    height: 300px;
+    object-fit: cover;
+}
+
+
 @media (min-width: 768px) {
     .hero-section {
         height: 400px;
+    }
+
+    .portfolio-section {
+        padding-top: 75px;
     }
 }
